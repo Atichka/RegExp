@@ -1,3 +1,3 @@
-https://github.com/Atichka/RegExp.git
+https://github.com/Atichka/RegExp
 ****
-version v0.0.2
+version v0.0.3
